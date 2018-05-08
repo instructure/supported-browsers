@@ -1,0 +1,12 @@
+{
+  "name": "@instructure/supported-browsers",
+  "version": "1.0.0",
+  "description": "The list of browsers supported by Canvas LMS & the Canvas product ecosystem",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instructure/supported-browsers.git"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/instructure/supported-browsers#readme"
+}
